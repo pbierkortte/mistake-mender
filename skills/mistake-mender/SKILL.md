@@ -32,7 +32,7 @@ That list reads as a list of rules rather than a list of failures, which is what
 Write this one into the list if it is not already there:
 
 ```md
-- [Write the entry as part of the fix, not afterward, and never forget to write down my mistakes.](fix.md)
+- [Write the entry as part of the fix, not afterward, and never forget to write down my mistakes](fix.md)
 ```
 
 The entry behind that line takes this shape:
