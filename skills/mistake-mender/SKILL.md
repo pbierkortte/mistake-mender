@@ -15,7 +15,7 @@ Own the miss first, plainly and before anything is written. Naming it is what ma
 
 Read the rules you already keep before starting anything new, and ask which of them, had it been followed, would have stopped you, rather than which of them looks like what just happened. Two landings of one mistake rarely resemble each other on the surface, so matching by appearance returns nothing and splits the count.
 
-When one already there would have stopped this, the landing belongs there. Raise its count, add the landing to it, and sharpen its remedy where the new landing shows a shape the old wording missed. At eight, redo the entry from its incidents rather than sharpen it again. Write a new entry only when nothing you keep covers it.
+When one already there would have stopped this, the landing belongs there. Raise its count, add the landing to it, and sharpen its remedy where the new landing shows a shape the old wording missed. At eight, redo the entry from its incidents rather than sharpen it again, rewriting its rule line in the list last. Write a new entry only when nothing you keep covers it.
 
 Write the entry without asking, and without announcing that you are about to. An entry changes nothing anyone has to live with and costs nothing to remove if it turns out wrong, so there is nothing here to approve. Naming the debt and waiting to be told produces the same result as forgetting, which is the correction taken and nothing kept.
 
